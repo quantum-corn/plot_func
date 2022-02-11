@@ -2,4 +2,4 @@
 
 A simple matplotlib based python code to quickly plot functions
 
-### v0.0
+### v1.0
